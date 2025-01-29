@@ -3,8 +3,8 @@ class Friday < Formula
     
     desc "AI Test Case Generator CLI"
     homepage "https://github.com/dipjyotimetia/friday"
-    url "https://github.com/dipjyotimetia/friday/archive/refs/tags/v0.1.34.tar.gz"
-    sha256 "b6005ef382c89978f4c7d6fd20138e2e436650f961961c0c246e83f7806918bf"
+    url "https://github.com/dipjyotimetia/friday/archive/refs/tags/v0.1.35.tar.gz"
+    sha256 "352eafe408700886cbe6eb5f225a46039c793eadd75d964e80a3976b598cbf37"
     license "MIT"
   
     depends_on "python@3.12"
